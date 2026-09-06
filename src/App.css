@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.hoveran button:hover{
+    background-color: rgba(77, 139, 175, 0.329);
+
+}
+.hoveran button{
+    width: 100%;
+    padding: 20px;
+    border-radius: 15%;
+    transition: all ease 0.1s;
+}
